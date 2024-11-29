@@ -69,12 +69,13 @@ IR-SCORE/
 │   └── scoring_tool.py
 ├── tests/
 │   └── test_models.py
-├── images/
+├── image/
 │   ├── feature_importance.png
 │   ├── confusion_matrix.png
 │   └── roc_curve.png
 ├── requirements.txt
 ├── main.py
+├── Model Performance.md
 └── README.md
 ```
 
