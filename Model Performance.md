@@ -36,15 +36,15 @@ weighted avg       0.70      0.63      0.66       400
 
 **Feature Importance**
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](image/feature_importance.png)
 
 **Confusion Matrix**
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](image/confusion_matrix.png)
 
 **ROC Curve**
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](image/roc_curve.png)
 
 ### Model Notes
 
